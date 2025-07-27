@@ -32,11 +32,11 @@ bool audioInitialized = false;
 String mp3Files[100];
 int fileCount = 0;
 int currentFileIndex = 0;
-int volume = 8;  // Standardlautstärke (0-21)
+int volume = 8;  
 bool isPlaying = true;
 bool volumeChanged = false;
 unsigned long volumeDisplayTime = 0;
-bool systemOn = true;  // Systemzustand
+bool systemOn = true; 
 
 // Encoder Variablen
 volatile int encoderPos = 0;
@@ -149,7 +149,7 @@ void checkPowerButton() {
       powerButtonActive = true;
       powerButtonTime = millis();
     } else if(millis() - powerButtonTime > 1000) {
-      // Langer Druck (1 Sekunde) zum Ein-/Ausschalten
+      
       systemOn = !systemOn;
       powerButtonActive = false;
       
