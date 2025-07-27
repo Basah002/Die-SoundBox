@@ -28,4 +28,11 @@ Dieses Projekt kombiniert einfache und effektive Technologien, um eine benutzerf
 
 
 ## Visuelle Darstellung
-![Komponentenplan](https://github.com/user-attachments/assets/2fcae056-3265-4c45-86ab-eb48bde39d25)
+![Visuelle Darstellung](https://github.com/user-attachments/assets/2fcae056-3265-4c45-86ab-eb48bde39d25)
+
+## Fertiger Aufbau
+
+
+
+![Fertiger Aufbau](https://github.com/user-attachments/assets/67a8bc0e-26a7-4d6b-90e8-9d7780161cc2)
+
