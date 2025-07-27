@@ -34,5 +34,6 @@ Dieses Projekt kombiniert einfache und effektive Technologien, um eine benutzerf
 
 
 
-![Fertiger Aufbau](https://github.com/user-attachments/assets/67a8bc0e-26a7-4d6b-90e8-9d7780161cc2)
+
+![Fertiger Aufbau](https://github.com/user-attachments/assets/0274847f-0f86-4414-9ff5-7c96e2d6b267)
 
